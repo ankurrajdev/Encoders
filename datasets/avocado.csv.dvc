@@ -1,0 +1,7 @@
+md5: e1e001d667c82041d2ab41dcbe7e3637
+outs:
+- cache: true
+  md5: a9b426d018a0e02b44bbb85c62e3e012
+  metric: false
+  path: avocado.csv
+wdir: .

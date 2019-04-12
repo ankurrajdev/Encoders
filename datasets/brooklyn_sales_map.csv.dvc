@@ -1,0 +1,7 @@
+md5: 2b4eb86cccf70b0d8dbfa30e3071cf09
+outs:
+- cache: true
+  md5: 0e91448fc5d4b1b0c437b21209c882e1
+  metric: false
+  path: brooklyn_sales_map.csv
+wdir: .

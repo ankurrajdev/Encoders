@@ -1,0 +1,7 @@
+md5: d1b2a4f7004dc1cc706774fdbc24da32
+outs:
+- cache: true
+  md5: 94f91f3f0456979ac24021bd7c682971
+  metric: false
+  path: diamonds_result.csv
+wdir: .

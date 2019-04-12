@@ -1,0 +1,17 @@
+ipdb==0.11
+ipython==7.2.0
+jupyter-client==5.2.4
+jupyter-core==4.4.0
+jupyterlab==0.35.4
+jupyterlab-server==0.2.0
+nbconvert==5.4.0
+nbformat==4.4.0
+notebook>=5.7.8
+numpy==1.16.1
+pandas==0.24.1
+numpy
+scikit-learn==0.20.2
+git+git://github.com/IamGianluca/sleepmind#egg=sleepmind
+git+git://github.com/MaxHalford/xam#egg=xam
+git+git://github.com/Robin888/hccEncoding-project#egg=hccEncoding
+

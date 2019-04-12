@@ -1,0 +1,7 @@
+md5: 34be7c600d7f828a9fa918b57019c3b6
+outs:
+- cache: true
+  md5: 18f8b168f9a0b03b11a11d761083d1be
+  metric: false
+  path: brooklyn_result.csv
+wdir: .
